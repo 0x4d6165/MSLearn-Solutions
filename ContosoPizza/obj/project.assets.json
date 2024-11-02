@@ -452,11 +452,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\MSLearn\\ContosoPizza\\ContosoPizza.csproj",
+      "projectUniqueName": "D:\\Projects\\MSLearn-Solutions\\ContosoPizza\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "F:\\MSLearn\\ContosoPizza\\ContosoPizza.csproj",
+      "projectPath": "D:\\Projects\\MSLearn-Solutions\\ContosoPizza\\ContosoPizza.csproj",
       "packagesPath": "C:\\Users\\0x4d6165\\.nuget\\packages\\",
-      "outputPath": "F:\\MSLearn\\ContosoPizza\\obj\\",
+      "outputPath": "D:\\Projects\\MSLearn-Solutions\\ContosoPizza\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\0x4d6165\\AppData\\Roaming\\NuGet\\NuGet.Config"
